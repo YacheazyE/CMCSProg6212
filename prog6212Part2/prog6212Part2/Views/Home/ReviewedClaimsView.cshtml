@@ -70,10 +70,19 @@
             <td>
                 @claimView.claimFileName
             </td>
-            
+            @if(claimView.claimStatus == true)
+            {
             <td>
-                @(claimView.claimStatus ? "Approve" : "Rejected")
+                    @(claimView.claimStatus ? "Approve" : "Rejected")
+                </td>
+            }
+            else
+            {
+            <td>
+                    @(claimView.claimStatus ? "Approve" : "Pending")
             </td>
+            }
+
             
             <td>
                 @claimView.claimDate

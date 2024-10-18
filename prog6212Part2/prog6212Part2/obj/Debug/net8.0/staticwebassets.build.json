@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uxfDauLQOIeeIaHaNeF5M3DGLFTrTDFo1uluQkgKAfc=",
+  "Hash": "C2910cZBFx1cbLbFAKz9LxQbxaHTacK1kHdA+G2qiSs=",
   "Source": "prog6212Part2",
   "BasePath": "_content/prog6212Part2",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\DatabaseFile\\screenshot_1.png"
+    },
+    {
+      "Identity": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\ST10085639 CLOUD PT2.docx",
+      "SourceId": "prog6212Part2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\",
+      "BasePath": "_content/prog6212Part2",
+      "RelativePath": "DatabaseFile/ST10085639 CLOUD PT2.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\DatabaseFile\\ST10085639 CLOUD PT2.docx"
     },
     {
       "Identity": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\WEB CONTRACT OFFER TO PURCHASE MARCH 22.pdf",

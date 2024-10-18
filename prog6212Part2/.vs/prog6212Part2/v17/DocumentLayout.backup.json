@@ -59,8 +59,7 @@
               "ViewState": "AgIAAEoAAAAAAAAAAAAQwF8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T09:54:53.977Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -73,8 +72,7 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-18T19:59:49.102Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -88,7 +86,7 @@
               "RelativeDocumentMoniker": "prog6212Part2\\Views\\Home\\ReviewedClaimsView.cshtml",
               "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\ReviewedClaimsView.cshtml",
               "RelativeToolTip": "prog6212Part2\\Views\\Home\\ReviewedClaimsView.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEoAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-18T16:43:41.831Z",
               "EditorCaption": ""
@@ -115,8 +113,7 @@
               "RelativeToolTip": "prog6212Part2\\Models\\LecturerClaims.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T08:04:35.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T08:04:35.115Z"
             },
             {
               "$type": "Document",
@@ -128,8 +125,7 @@
               "RelativeToolTip": "prog6212Part2\\Views\\Home\\LecturerView.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T09:12:55.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T09:12:55.626Z"
             },
             {
               "$type": "Document",
@@ -141,8 +137,7 @@
               "RelativeToolTip": "prog6212Part2\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T07:37:20.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T07:37:20.661Z"
             },
             {
               "$type": "Document",
@@ -154,8 +149,7 @@
               "RelativeToolTip": "prog6212Part2\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T09:45:10.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T09:45:10.767Z"
             },
             {
               "$type": "Document",
@@ -167,8 +161,7 @@
               "RelativeToolTip": "prog6212Part2\\Views\\Home\\AdminView.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAEEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T09:13:29.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T09:13:29.282Z"
             }
           ]
         }
