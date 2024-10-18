@@ -1,0 +1,67 @@
+﻿@model List<prog6212Part2.Models.LecturerClaims>
+@* 
+    
+@using (Html.BeginForm("AdminReview", "Home", FormMethod.Post,
+   new { enctype = "multiple/form-data" }))
+{
+}
+ *@
+<head>
+
+</head>
+<body >
+   <h1> Admin Review</h1>
+    
+</body>
+
+    <div>
+        <table>
+            <tr>
+                <th>Uploader Name</th>
+                <th>Hourly Rate</th>
+                <th>Hours Worked</th>
+                <th>Addition Notes</th>
+                <th>Claim Name</th>
+                <th>Claim Date</th>
+                <th>View Document</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+
+            @if (item != null)
+            {
+                <tr>
+                    <td>
+                        @item.claimLecturerName
+                    </td>
+                    <td>
+                        @item.claimHourlyRate
+                    </td>
+                    <td>
+                        @item.claimHoursWorked
+                    </td>
+                    <td>
+                        @item.claimAdditionalNotes
+                    </td>
+                    <td>
+                        @item.claimFileName
+                    </td>
+                    <td>
+                        @item.claimDate
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                        href@url.Action()
+                    </td>
+
+                </tr>
+
+            }
+
+
+        }
+
+    </table>
+</div>
+

@@ -1,0 +1,80 @@
+﻿@model List<prog6212Part2.Models.LecturerClaims>
+<table>
+
+    <thead>
+
+        <tr>
+
+        <th>
+            Claim ID
+        </th>  
+        
+        <th>
+            Lecturer Name
+        </th>  
+        
+        <th>
+           Hourly rate
+        </th>  
+        
+        <th>
+            Hours Worked
+        </th>  
+        
+        <th>
+           Additional Notes
+        </th>  
+        
+        <th>
+            File Name
+        </th>  
+        
+        <th>
+            Claim Date
+        </th>
+
+        </tr>
+
+    </thead>
+
+
+    <tbody>
+
+        @foreach(var claimView in Model)
+        {
+            
+            <td>
+                @claimView.claimID
+            </td>
+            
+            <td>
+                @claimView.claimLecturerName
+            </td>
+            
+            <td>
+                @claimView.claimHourlyRate
+            </td>
+            
+            <td>
+                @claimView.claimHoursWorked
+            </td>
+            
+            <td>
+                @claimView.claimID
+            </td>
+            
+            <td>
+                @claimView.claimID
+            </td>
+            
+            <td>
+                @claimView.claimID
+            </td>
+
+        };
+
+    </tbody>
+
+
+
+</table>

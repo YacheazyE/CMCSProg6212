@@ -1,0 +1,56 @@
+﻿@model List<prog6212Part2.Models.LecturerClaims>
+
+@using (Html.BeginForm("StoreDatabase", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <h1>Lecturer Claims View</h1>
+    <div class="text-start">
+        <label for="LecturerName">Enter Your Name</label>
+        <input name="LecturerName" type="text" required /><br />
+
+        <label for="HourlyRate">Enter Your Hourly Rate</label>
+        <input name="HourlyRate" type="number" required /><br />
+
+        <label for="HoursWorked">Enter Your Hours Worked</label>
+        <input name="HoursWorked" type="number" required /><br />
+
+        <label for="AddNotes">Enter Your Additional Notes</label>
+        <input name="AddNotes" type="text" required /><br />
+
+        <label for="ClaimFileName">Upload Document</label>
+        <input name="ClaimFileName" type="file" required /><br />
+
+        <input type="submit" value="StoreDatabase" />
+    </div>
+}
+
+<div>
+    <table>
+        <thead>
+            <tr>
+                <th>Uploader Name</th>
+                <th>Hourly Rate</th>
+                <th>Hours Worked</th>
+                <th>Additional Notes</th>
+                <th>Claim Name</th>
+                <th>Claim Date</th>
+                <th>View Document</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.claimLecturerName</td>
+                    <td>@item.claimHourlyRate</td>
+                    <td>@item.claimHoursWorked</td>
+                    <td>@item.claimAdditionalNotes</td>
+                    <td>@item.claimFileName</td>
+                    <td>@item.claimDate.ToString("yyyy-MM-dd")</td>
+                    <td>
+                        <a asp-action="ReadFile" asp-route-newFileName="@item.claimFileName">View</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
