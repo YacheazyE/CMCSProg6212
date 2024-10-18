@@ -1,25 +1,37 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - prog6212Part2</title>
+    <meta charset="utf-8" /> <!-- Specifies the character encoding for the HTML document -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <!-- Ensures the page is responsive to different screen sizes -->
+    <title>@ViewData["Title"] - prog6212Part2</title> <!-- Sets the title dynamically based on the ViewData["Title"] value -->
+    <!-- Link to Bootstrap CSS for styling -->
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <!-- Link to custom site-specific styles -->
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+    <!-- Link to additional styles for the project -->
     <link rel="stylesheet" href="~/prog6212Part2.styles.css" asp-append-version="true" />
 </head>
 <body>
     <header>
+        <!-- Navigation bar setup -->
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
+                <!-- Logo/brand name linking back to the home page -->
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">prog6212Part2</a>
+
+                <!-- Hamburger menu for small screens -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
+
+                <!-- Navigation links -->
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
+                            <!-- Link to the Home page -->
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                     </ul>
@@ -27,20 +39,28 @@
             </div>
         </nav>
     </header>
+
     <div class="container">
         <main role="main" class="pb-3">
-            @RenderBody()
+            @RenderBody() <!-- Placeholder for the main content of the page -->
         </main>
     </div>
 
     <footer class="border-top footer text-muted">
         <div class="container">
+            <!-- Footer content with copyright and link to Privacy page -->
             &copy; 2024 - prog6212Part2 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+
+    <!-- jQuery and Bootstrap JavaScript libraries -->
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Link to site-specific JavaScript -->
     <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <!-- Render additional scripts if needed -->
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "C2910cZBFx1cbLbFAKz9LxQbxaHTacK1kHdA+G2qiSs=",
+  "Hash": "MaTzTsBytCHFoxamnle1OKbsSFoS8vKUrSy6UCryylQ=",
   "Source": "prog6212Part2",
   "BasePath": "_content/prog6212Part2",
   "Mode": "Default",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\DatabaseFile\\download.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\PRSE4&6.docx",
+      "SourceId": "prog6212Part2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\",
+      "BasePath": "_content/prog6212Part2",
+      "RelativePath": "DatabaseFile/PRSE4&6.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\DatabaseFile\\PRSE4&6.docx"
     },
     {
       "Identity": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\screenshot_1.png",

@@ -1,31 +1,43 @@
+/* Set the base font size for the HTML document */
 html {
-  font-size: 14px;
+    font-size: 14px; /* Default font size */
 }
 
+/* Increase the font size for larger screens */
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px; /* Font size for devices wider than 768px */
+    }
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+/* Styles for focus states of various elements */
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    /* Add a shadow effect on focus for accessibility */
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
+/* Set the HTML element to ensure full height */
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative; /* Position relative for child elements */
+    min-height: 100%; /* Ensure the HTML covers the full viewport height */
 }
 
+/* Add bottom margin to the body for spacing */
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px; /* Space for the footer or other content */
 }
 
-.btnStyle{
-    color:white;
-    background-color:darkgreen;
-    padding:20px 50px;
-    border-radius: 25px;
-    margin-right: 50px;
+/* Styles for buttons with class btnStyle */
+.btnStyle {
+    color: white; /* Text color */
+    background-color: darkgreen; /* Background color */
+    padding: 20px 50px; /* Padding for top/bottom and left/right */
+    border-radius: 25px; /* Rounded corners */
+    margin-right: 50px; /* Space between buttons */
+}
 
 }
