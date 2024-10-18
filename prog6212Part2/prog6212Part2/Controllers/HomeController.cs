@@ -88,6 +88,19 @@ namespace prog6212Part2.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
 
-     
+        [HttpPost]
+        public IActionResult ReviewClaimsView(int claimId, bool approve)
+        {
+            var claim = claimsDatabase.FirstOrDefault(c => c.claimID == claimId);
+
+            if (claim != null)
+            {
+                claim.claimStatus = approve;
+            }
+
+            return RedirectToAction("AdminView");
+        }
+
+
     }
 }
