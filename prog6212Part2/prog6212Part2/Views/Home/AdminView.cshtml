@@ -1,11 +1,5 @@
 ﻿@model List<prog6212Part2.Models.LecturerClaims>
-@* 
-    
-@using (Html.BeginForm("AdminReview", "Home", FormMethod.Post,
-   new { enctype = "multiple/form-data" }))
-{
-}
- *@
+
 <head>
 
 </head>
@@ -16,6 +10,7 @@
 
     <div>
         <table>
+            <thead>
             <tr>
                 <th>Uploader Name</th>
                 <th>Hourly Rate</th>
@@ -24,43 +19,51 @@
                 <th>Claim Name</th>
                 <th>Claim Date</th>
                 <th>View Document</th>
+                <th>Status</th>
             </tr>
+            </thead>
+            <tbody>
             @foreach (var item in Model)
             {
 
-            @if (item != null)
-            {
-                <tr>
-                    <td>
-                        @item.claimLecturerName
-                    </td>
-                    <td>
-                        @item.claimHourlyRate
-                    </td>
-                    <td>
-                        @item.claimHoursWorked
-                    </td>
-                    <td>
-                        @item.claimAdditionalNotes
-                    </td>
-                    <td>
-                        @item.claimFileName
-                    </td>
-                    <td>
-                        @item.claimDate
-                    </td>
-                    <td>
-                    </td>
-                    <td>
-                        href@url.Action()
-                    </td>
+                @if (item != null)
+                {
+                    <tr>
+                        <td>
+                            @item.claimLecturerName
+                        </td>
 
-                </tr>
+                        <td>
+                            @item.claimHourlyRate
+                        </td>
 
+                        <td>
+                            @item.claimHoursWorked
+                        </td>
+
+                        <td>
+                            @item.claimAdditionalNotes
+                        </td>
+
+                        <td>
+                            @item.claimFileName
+                        </td>
+
+                        <td>
+                            @item.claimDate
+                        </td>
+
+                        <td>
+                            href@url.Action()
+                        </td>
+
+                    </tr>
+                }
             }
+                
 
-
-        }
+            </tbody>
+           
 
     </table>
 </div>

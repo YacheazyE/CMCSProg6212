@@ -73,7 +73,7 @@ namespace prog6212Part2.Controllers
 
         public IActionResult AdminView()
         {
-            return View();
+            return View(claimsDatabase);
         }
 
         public IActionResult LecturerView()
