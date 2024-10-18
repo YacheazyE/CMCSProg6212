@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rvCFqjiP0Z2jJrjSYQ5md3skXlF8lars54J0tltEfJM=",
+  "Hash": "uxfDauLQOIeeIaHaNeF5M3DGLFTrTDFo1uluQkgKAfc=",
   "Source": "prog6212Part2",
   "BasePath": "_content/prog6212Part2",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\DatabaseFile\\2.png"
+    },
+    {
+      "Identity": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\2635959.jpg",
+      "SourceId": "prog6212Part2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\",
+      "BasePath": "_content/prog6212Part2",
+      "RelativePath": "DatabaseFile/2635959.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\DatabaseFile\\2635959.jpg"
     },
     {
       "Identity": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\BapestaGreen.jpeg",
