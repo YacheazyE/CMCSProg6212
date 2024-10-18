@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\prog6212Part2.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\BapestaGreen.jpeg",
+      "PackagePath": "staticwebassets\\DatabaseFile\\BapestaGreen.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\screenshot_1.png",
+      "PackagePath": "staticwebassets\\DatabaseFile\\screenshot_1.png"
+    },
+    {
       "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

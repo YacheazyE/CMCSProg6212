@@ -25,6 +25,11 @@ namespace prog6212Part2.Controllers
         public IActionResult Index()
         {
             return View(claimsDatabase);
+        } 
+        
+        public IActionResult ReviewedClaimsView()
+        {
+            return View(claimsDatabase);
         }
 
         [HttpPost]
