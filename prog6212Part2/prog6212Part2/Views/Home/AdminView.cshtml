@@ -18,8 +18,9 @@
                 <th>Addition Notes</th>
                 <th>Claim Name</th>
                 <th>Claim Date</th>
-                <th>View Document</th>
                 <th>Status</th>
+                <th>Review Document</th>
+                
             </tr>
             </thead>
             <tbody>
@@ -51,10 +52,24 @@
 
                         <td>
                             @item.claimDate
+                        </td> 
+                        
+                        
+                        <td>
+                           @item.claimStatus
                         </td>
 
+                    
+
+
                         <td>
-                            href@url.Action()
+                            <form asp-action="ReviewClaims" method="post">
+                                <select name="approve">
+                                    <option value="true">Approve</option>
+                                    <option value="false">Reject</option>
+                                </select>
+                                <button type="submit">Submit</button>
+                            </form>
                         </td>
 
                     </tr>

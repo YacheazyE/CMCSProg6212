@@ -3,11 +3,13 @@
     public class LecturerClaims
     {
         public int claimID { get; set; }
-        public string claimLecturerName { get; set; } // Fixed required property syntax
+        public string claimLecturerName { get; set; } 
         public int claimHourlyRate { get; set; }
         public int claimHoursWorked { get; set; }
         public string claimAdditionalNotes { get; set; }
-        public string claimFileName { get; set; } // Fixed required property syntax
+        public string claimFileName { get; set; } 
         public DateTime claimDate { get; set; }
+
+        public bool claimStatus { get; set; }
     }
 }
