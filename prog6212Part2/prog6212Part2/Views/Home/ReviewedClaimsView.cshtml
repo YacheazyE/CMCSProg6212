@@ -30,6 +30,10 @@
         </th>  
         
         <th>
+            Claim Status
+        </th>  
+        
+        <th>
             Claim Date
         </th>
 
@@ -65,6 +69,10 @@
             
             <td>
                 @claimView.claimFileName
+            </td>
+            
+            <td>
+                @claimView.claimStatus ? "Approve" : "Rejected"
             </td>
             
             <td>

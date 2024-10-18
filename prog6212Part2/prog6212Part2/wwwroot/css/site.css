@@ -20,3 +20,12 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.btnStyle{
+    color:white;
+    background-color:darkgreen;
+    padding:20px 50px;
+    border-radius: 25px;
+    margin-right: 50px;
+
+}

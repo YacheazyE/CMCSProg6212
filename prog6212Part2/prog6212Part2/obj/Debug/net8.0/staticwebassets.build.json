@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M5xkTpsdz8mQRnEhS88+jdBEmJhFxZI7Oc5fZVETGUk=",
+  "Hash": "rvCFqjiP0Z2jJrjSYQ5md3skXlF8lars54J0tltEfJM=",
   "Source": "prog6212Part2",
   "BasePath": "_content/prog6212Part2",
   "Mode": "Default",
@@ -112,6 +112,25 @@
       "OriginalItemSpec": "wwwroot\\DatabaseFile\\BapestaGreen.jpeg"
     },
     {
+      "Identity": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\download.jpeg",
+      "SourceId": "prog6212Part2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\",
+      "BasePath": "_content/prog6212Part2",
+      "RelativePath": "DatabaseFile/download.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\DatabaseFile\\download.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\screenshot_1.png",
       "SourceId": "prog6212Part2",
       "SourceType": "Discovered",
@@ -129,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\DatabaseFile\\screenshot_1.png"
+    },
+    {
+      "Identity": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\WEB CONTRACT OFFER TO PURCHASE MARCH 22.pdf",
+      "SourceId": "prog6212Part2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\",
+      "BasePath": "_content/prog6212Part2",
+      "RelativePath": "DatabaseFile/WEB CONTRACT OFFER TO PURCHASE MARCH 22.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\DatabaseFile\\WEB CONTRACT OFFER TO PURCHASE MARCH 22.pdf"
     },
     {
       "Identity": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\favicon.ico",
