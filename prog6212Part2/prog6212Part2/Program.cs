@@ -29,6 +29,11 @@ namespace prog6212Part2
 
             var app = builder.Build(); // Build the app using the configuration
 
+            //configuring the 
+
+
+
+
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment()) // Check if the app is not in development mode
             {

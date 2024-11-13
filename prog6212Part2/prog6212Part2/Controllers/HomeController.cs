@@ -50,13 +50,22 @@ namespace prog6212Part2.Controllers
             return View(claimsDatabase); // Pass the claims database to the view
         }
 
+        public IActionResult Login()
+        {
+            return View();
+        }
+        public IActionResult Register()
+        {
+            return View();
+        }
+
         // Action method to display reviewed claims
         public IActionResult ReviewedClaimsView()
         {
             return View(claimsDatabase); // Pass the claims database to the view
         }
 
-        // Action method to handle form submissions for storing claims
+        // Action method to handle form submissions for storing claims 
         [HttpPost]
         public IActionResult StoreDatabase(IFormFile ClaimFileName, string LecturerName, string AddNotes, int HoursWorked, int HourlyRate)
         {

@@ -40,4 +40,15 @@ body {
     margin-right: 50px; /* Space between buttons */
 }
 
+.formSignIn{
+    background-color: blanchedalmond;
+    border-style:groove;
+    border-color: black;
+    border-radius: 15px;
+    padding: 10px;
+    display: block;
+    flex: auto;
+    justify-items: center;
+    width:250px;
+
 }

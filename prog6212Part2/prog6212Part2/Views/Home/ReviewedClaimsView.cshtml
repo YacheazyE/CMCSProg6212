@@ -45,15 +45,16 @@
                 <td>@claimView.claimAdditionalNotes</td> <!-- Additional notes -->
                 <td>@claimView.claimFileName</td> <!-- Uploaded file name -->
                 <!-- Conditional display for claim status -->
-                @if (claimView.claimStatus != true && claimView.claimStatus != false)
+                @if (claimView.claimStatus == true || claimView.claimStatus == false)
                 {
-
-                    <td>Pending</td> <!-- If the claim is still pending -->
-                      }
-                else
-                {
+                    
                     <td>@(claimView.claimStatus ? "Approve" : "Rejected")</td> <!-- If the claim is approved or rejected -->
                 }
+                else if (claimView.claimStatus.Equals(null))
+                {
+                    <td>Pending</td> <!-- If the claim is still pending -->
+                }
+               
 
                 <td>@claimView.claimDate</td> <!-- Claim submission date -->
             </tr>

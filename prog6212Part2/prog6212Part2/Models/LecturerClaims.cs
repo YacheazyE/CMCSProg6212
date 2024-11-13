@@ -24,7 +24,7 @@
         public DateTime claimDate { get; set; }
 
         // Status of the claim (e.g., approved or rejected)
-        public bool claimStatus { get; set; }
+        public Boolean claimStatus { get; set; }
     }
 }
 

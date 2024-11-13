@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\prog6212Part2.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\1.png",
+      "PackagePath": "staticwebassets\\DatabaseFile\\1.png"
+    },
+    {
       "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\2.png",
       "PackagePath": "staticwebassets\\DatabaseFile\\2.png"
     },
@@ -13,16 +17,40 @@
       "PackagePath": "staticwebassets\\DatabaseFile\\2635959.jpg"
     },
     {
+      "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\BapestaGreen (1) (1) (2) (1) (1).jpeg",
+      "PackagePath": "staticwebassets\\DatabaseFile\\BapestaGreen (1) (1) (2) (1) (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\BapestaGreen (1) (1) (2) (1).jpeg",
+      "PackagePath": "staticwebassets\\DatabaseFile\\BapestaGreen (1) (1) (2) (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\BapestaGreen (1) (1) (2).jpeg",
+      "PackagePath": "staticwebassets\\DatabaseFile\\BapestaGreen (1) (1) (2).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\BapestaGreen (1) (1).jpeg",
+      "PackagePath": "staticwebassets\\DatabaseFile\\BapestaGreen (1) (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\BapestaGreen (1).jpeg",
+      "PackagePath": "staticwebassets\\DatabaseFile\\BapestaGreen (1).jpeg"
+    },
+    {
       "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\BapestaGreen.jpeg",
       "PackagePath": "staticwebassets\\DatabaseFile\\BapestaGreen.jpeg"
     },
     {
-      "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\PRSE4&6.docx",
-      "PackagePath": "staticwebassets\\DatabaseFile\\PRSE4&6.docx"
+      "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\Jordans.jpeg",
+      "PackagePath": "staticwebassets\\DatabaseFile\\Jordans.jpeg"
     },
     {
       "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\ST10085639 CLOUD PT2.docx",
       "PackagePath": "staticwebassets\\DatabaseFile\\ST10085639 CLOUD PT2.docx"
+    },
+    {
+      "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\Untitled design (1).png",
+      "PackagePath": "staticwebassets\\DatabaseFile\\Untitled design (1).png"
     },
     {
       "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\WEB CONTRACT OFFER TO PURCHASE MARCH 22.pdf",
@@ -35,6 +63,14 @@
     {
       "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\screenshot_1.png",
       "PackagePath": "staticwebassets\\DatabaseFile\\screenshot_1.png"
+    },
+    {
+      "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\DatabaseFile\\st10256948.png",
+      "PackagePath": "staticwebassets\\DatabaseFile\\st10256948.png"
+    },
+    {
+      "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\bg_images\\bg_main.jpeg",
+      "PackagePath": "staticwebassets\\bg_images\\bg_main.jpeg"
     },
     {
       "Id": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\css\\site.css",

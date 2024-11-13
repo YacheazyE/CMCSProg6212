@@ -3,40 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\views\\home\\reviewedclaimsview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\views\\home\\reviewedclaimsview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\models\\lecturerclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\models\\lecturerclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\views\\home\\lecturerview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\views\\home\\lecturerview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\views\\home\\reviewedclaimsview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\views\\home\\reviewedclaimsview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\views\\home\\adminview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\views\\home\\adminview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|c:\\users\\yachp\\source\\repos\\prog6212part2\\prog6212part2\\views\\home\\lecturerview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA307983-E5A9-4770-B420-22C62A7D0D4A}|prog6212Part2\\prog6212Part2.csproj|solutionrelative:prog6212part2\\views\\home\\lecturerview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,17 +58,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "prog6212Part2\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "prog6212Part2\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAcwI0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "prog6212Part2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T09:54:53.977Z",
               "IsPinned": true,
@@ -64,16 +76,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "prog6212Part2\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\css\\site.css*",
-              "RelativeToolTip": "prog6212Part2\\wwwroot\\css\\site.css*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "prog6212Part2\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvzMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-18T19:59:49.102Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Program.cs",
+              "RelativeDocumentMoniker": "prog6212Part2\\Program.cs",
+              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Program.cs",
+              "RelativeToolTip": "prog6212Part2\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:50:47.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "prog6212Part2\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Models\\Users.cs",
+              "RelativeToolTip": "prog6212Part2\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:39:57.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LecturerClaims.cs",
+              "DocumentMoniker": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Models\\LecturerClaims.cs",
+              "RelativeDocumentMoniker": "prog6212Part2\\Models\\LecturerClaims.cs",
+              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Models\\LecturerClaims.cs",
+              "RelativeToolTip": "prog6212Part2\\Models\\LecturerClaims.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:31:56.382Z",
               "EditorCaption": ""
             },
             {
@@ -82,91 +133,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "prog6212Part2\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "prog6212Part2\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T06:20:11.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "prog6212Part2\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "prog6212Part2\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T23:13:27.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LecturerView.cshtml",
+              "DocumentMoniker": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\LecturerView.cshtml",
+              "RelativeDocumentMoniker": "prog6212Part2\\Views\\Home\\LecturerView.cshtml",
+              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\LecturerView.cshtml",
+              "RelativeToolTip": "prog6212Part2\\Views\\Home\\LecturerView.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T10:55:38.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ReviewedClaimsView.cshtml",
               "DocumentMoniker": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\ReviewedClaimsView.cshtml",
               "RelativeDocumentMoniker": "prog6212Part2\\Views\\Home\\ReviewedClaimsView.cshtml",
-              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\ReviewedClaimsView.cshtml*",
-              "RelativeToolTip": "prog6212Part2\\Views\\Home\\ReviewedClaimsView.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\ReviewedClaimsView.cshtml",
+              "RelativeToolTip": "prog6212Part2\\Views\\Home\\ReviewedClaimsView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-18T16:43:41.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Program.cs",
-              "RelativeDocumentMoniker": "prog6212Part2\\Program.cs",
-              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Program.cs*",
-              "RelativeToolTip": "prog6212Part2\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:47:12.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LecturerClaims.cs",
-              "DocumentMoniker": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Models\\LecturerClaims.cs",
-              "RelativeDocumentMoniker": "prog6212Part2\\Models\\LecturerClaims.cs",
-              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Models\\LecturerClaims.cs*",
-              "RelativeToolTip": "prog6212Part2\\Models\\LecturerClaims.cs*",
-              "ViewState": "AgIAABQAAAAAAAAAAAA9wBwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T08:04:35.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LecturerView.cshtml",
-              "DocumentMoniker": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\LecturerView.cshtml",
-              "RelativeDocumentMoniker": "prog6212Part2\\Views\\Home\\LecturerView.cshtml",
-              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\LecturerView.cshtml*",
-              "RelativeToolTip": "prog6212Part2\\Views\\Home\\LecturerView.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T09:12:55.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "prog6212Part2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "prog6212Part2\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "prog6212Part2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-18T07:37:20.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "prog6212Part2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "prog6212Part2\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBIAAAAlAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "prog6212Part2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-17T09:45:10.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AdminView.cshtml",
               "DocumentMoniker": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\AdminView.cshtml",
               "RelativeDocumentMoniker": "prog6212Part2\\Views\\Home\\AdminView.cshtml",
-              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\AdminView.cshtml*",
-              "RelativeToolTip": "prog6212Part2\\Views\\Home\\AdminView.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAABKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\yachp\\source\\repos\\prog6212Part2\\prog6212Part2\\Views\\Home\\AdminView.cshtml",
+              "RelativeToolTip": "prog6212Part2\\Views\\Home\\AdminView.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwFUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-17T09:13:29.282Z",
               "EditorCaption": ""
