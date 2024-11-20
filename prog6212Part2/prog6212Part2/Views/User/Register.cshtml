@@ -1,0 +1,48 @@
+﻿@model IEnumerable<prog6212Part2.Models.Users>;
+@{
+}
+<body>
+    <header>
+
+    </header>
+    <div>
+        <h1>Register New User</h1>
+    </div>
+    
+    <div id="MainLayout">
+     
+        <form>
+            <div>
+                <label for="Name">Name</label>
+                <input class="inputField" id="Name" type="text" required placeholder="Enter Your Name" />
+            </div>
+
+            <div>
+                <label for="LaatName">Last Name</label>
+                <input class="inputField" id="LastName" type="text" required />
+            </div>
+
+            <div>
+                <label for="Email">Email</label>
+                <input class="inputField" id="Email" type="text" required />
+            </div>
+
+            <div>
+                <label for="Password">Password</label>
+                <input class="inputField" id="Password" type="password" required />
+            </div>
+
+            <div>
+                <label for="ConfirmPassword">Confirm Password</label>
+                <input class="inputField"  id="ConfirmPassword" type="password" required />
+            </div>
+            <br />
+            <button class="btnStyle" id="btnRegister"type="submit" >Register</button>
+
+        </form>
+        
+
+
+    </div>
+
+</body>

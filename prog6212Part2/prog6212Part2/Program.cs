@@ -16,6 +16,9 @@
 // 
 
 
+using Microsoft.EntityFrameworkCore;
+using prog6212Part2.Models;
+
 namespace prog6212Part2
 {
     public class Program
@@ -28,10 +31,6 @@ namespace prog6212Part2
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build(); // Build the app using the configuration
-
-            //configuring the 
-
-
 
 
             // Configure the HTTP request pipeline.

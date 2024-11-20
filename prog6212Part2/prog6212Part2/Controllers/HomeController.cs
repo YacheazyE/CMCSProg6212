@@ -23,6 +23,7 @@ using System.Collections.Generic;
 using Microsoft.AspNetCore.Components.Forms;
 using Microsoft.AspNetCore.Hosting;
 using System.Security.Claims;
+using Microsoft.EntityFrameworkCore;
 
 namespace prog6212Part2.Controllers
 {
@@ -44,21 +45,14 @@ namespace prog6212Part2.Controllers
         // In-memory database to store claims
         private static List<LecturerClaims> claimsDatabase = new List<LecturerClaims>();
 
+
         // Action method to display the main index view with the claims database
         public IActionResult Index()
         {
             return View(claimsDatabase); // Pass the claims database to the view
         }
 
-        public IActionResult Login()
-        {
-            return View();
-        }
-        public IActionResult Register()
-        {
-            return View();
-        }
-
+ 
         // Action method to display reviewed claims
         public IActionResult ReviewedClaimsView()
         {
@@ -107,16 +101,16 @@ namespace prog6212Part2.Controllers
             return File(fileBytes, "application/octet-stream", newFileName); // Return the file for download
         }
 
-        // Action method to display the Privacy view
-        public IActionResult Privacy()
-        {
-            return View(); // Return the Privacy view
-        }
 
         // Action method to display the Admin view with claims
         public IActionResult AdminView()
         {
             return View(claimsDatabase); // Pass the claims database to the view
+        }
+
+        public IActionResult Login()
+        {
+            return View();
         }
 
         // Action method to display the Lecturer view with claims
